@@ -1,0 +1,84 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "Hero image for Wisudara",
+      "imageUrl": "/hero-image.jpg",
+      "imageHint": "woman graduation",
+      "width": 1920,
+      "height": 1280
+    },
+    {
+      "id": "about",
+      "description": "Image for the About Us section",
+      "imageUrl": "/about-image.jpg",
+      "imageHint": "photographer camera",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "id": "portfolio-1",
+      "description": "Portfolio image 1",
+      "imageUrl": "/portfolio-1.jpg",
+      "imageHint": "portofolio",
+      "width": 600,
+      "height": 900
+    },
+    {
+      "id": "portfolio-2",
+      "description": "Portfolio image 2",
+      "imageUrl": "/portfolio-2.jpg",
+      "imageHint": "portofolio",
+      "width": 900,
+      "height": 600
+    },
+    {
+      "id": "portfolio-3",
+      "description": "Portfolio image 3",
+      "imageUrl": "/portfolio-3.jpg",
+      "imageHint": "portofolio",
+      "width": 600,
+      "height": 900
+    },
+    {
+      "id": "portfolio-4",
+      "description": "Portfolio image 4",
+      "imageUrl": "/portfolio-4.jpg",
+      "imageHint": "portofolio",
+      "width": 900,
+      "height": 600
+    },
+    {
+      "id": "portfolio-5",
+      "description": "Portfolio image 5",
+      "imageUrl": "/portfolio-5.jpg?v=2",
+      "imageHint": "portofolio",
+      "width": 600,
+      "height": 900
+    },
+    {
+      "id": "portfolio-6",
+      "description": "Portfolio image 6",
+      "imageUrl": "/portfolio-6.jpg",
+      "imageHint": "portofolio",
+      "width": 900,
+      "height": 600
+    },
+    {
+      "id": "portfolio-7",
+      "description": "Portfolio image 7",
+      "imageUrl": "/portfolio-7.jpg",
+      "imageHint": "portofolio",
+      "width": 600,
+      "height": 900
+    },
+    {
+      "id": "portfolio-8",
+      "description": "Portfolio image 8",
+      "imageUrl": "/portfolio-8.jpg",
+      "imageHint": "portofolio",
+      "width": 900,
+      "height": 600
+    }
+  ]
+}
