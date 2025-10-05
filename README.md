@@ -4,7 +4,7 @@
 
 Selamat datang di repositori proyek **Wisudara**, sebuah landing page modern dan elegan yang dirancang untuk studio fotografi momen spesial di Padang, Sumatera Barat. Proyek ini dibangun untuk menampilkan portofolio, paket layanan, dan informasi kontak secara profesional.
 
-**[✨ Lihat Demo Langsung (Coming Soon)](#)**
+**[✨ Lihat Demo Langsung](https://wisudara.vercel.app/)**
 
 ---
 

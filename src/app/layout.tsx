@@ -5,6 +5,7 @@ import { Toaster } from '@/components/ui/toaster';
 import { Belleza, Alegreya } from 'next/font/google';
 import { ThemeProvider } from '@/components/theme-provider';
 import AnnouncementBar from '@/components/layout/announcement-bar';
+import { AnalyticsProvider } from '@/components/analytics';
 
 const belleza = Belleza({
   subsets: ['latin'],
@@ -43,6 +44,7 @@ export default function RootLayout({
           {children}
           <Toaster />
         </ThemeProvider>
+        <AnalyticsProvider />
       </body>
     </html>
   );
