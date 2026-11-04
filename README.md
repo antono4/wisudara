@@ -1,1 +1,32 @@
-Last updated: 2026-11-04 15:35:34 WIB
+# nextn
+
+
+
+## 📋 Overview
+
+This repository contains **100 files** and is built with the following technologies:
+
+Node.js, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-11-04 18:10:21 WIB*
